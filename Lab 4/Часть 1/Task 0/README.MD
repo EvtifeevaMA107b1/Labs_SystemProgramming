@@ -11,7 +11,7 @@
 1. Установили последнюю стабильную версию node с офиц. сайта
 2. На рисунке представленна версия node и ее открытие в cmd
 
-    ![layout](resources/nodeStart.png) 
+    ![layout](Lab 4/Часть 1/Task 0/resources/nodeStart.png) 
 
 3. Создаем в VS Code файл "index.js". И запишем базовый скрипт для проверки
 4. Используя терминал VS Code и node, запустим этот файл 
