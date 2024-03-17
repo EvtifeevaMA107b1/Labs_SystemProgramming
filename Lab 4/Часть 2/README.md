@@ -25,26 +25,26 @@ const users = [
     ```
     npm init
     ```
-    ![layout](res/init.png) 
+    ![layout]([res/init.png](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%202/res/init.PNG)) 
 
 2. Ставим библиотеку `lodash` с помощью команды
     ```
     npm i lodash
     ```
-     ![layout](res/lodash.png)
+     ![layout]([res/lodash.png](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%202/res/lodash.PNG))
 
 3. В `index.js` подключаем "lodash". Используя её  метод "sortBy", сортируем массив
 
-     ![layout](res/sort.png)
+     ![layout]([res/sort.png](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%202/res/sort.PNG))
     
 
 4. И в `script` добавляем команду для запуска `start`
 
-    ![layout](res/start.png) 
+    ![layout]([res/start.png](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%202/res/start.PNG)) 
 
 5. Запускаем:
    
-    ![layout](res/terminal.png) 
+    ![layout]([res/terminal.png](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%202/res/terminal.PNG)) 
 
 
 
