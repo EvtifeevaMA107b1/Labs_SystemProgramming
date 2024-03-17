@@ -15,23 +15,23 @@
 
 4. Поднимаем сервер:
 
-    ![layout](res/Server.png) 
+    ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%202/res/Server.PNG) 
 
 5. Отправляем `GET` запрос
     * Страница в браузере:
-        ![layout](res/GetPage.png) 
+        ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%202/res/GetPage.PNG) 
     * Вывод в терминал:
-        ![layout](res/getTerminal.png) 
+        ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%202/res/getTerminal.PNG) 
 6. Отправляем `POST` запрос через `POSTMAN`:
 
-    ![layout](res/Postman.png) 
+    ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%202/res/Postman.PNG) 
     
     * Вывод в терминал:
 
-        ![layout](res/Post.png)
+        ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%202/res/Post.PNG)
 7. Итог добавления тела POST запроса в файл "input.txt"
 
-    ![layout](res/итог.png) 
+    ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%202/res/итог.PNG) 
     
     
 
