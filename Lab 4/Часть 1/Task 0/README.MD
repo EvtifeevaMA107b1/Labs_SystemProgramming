@@ -3,6 +3,7 @@
 - [`Отчет`](#отчет)
 ## Task
 > Для лабы: <a href="https://github.com/goryachkinama/web-lectures/blob/main/src/lab_7_nodejs.md">Задания по NodeJS</a>
+---
 
 Поставить NodeJs и позапускать *.js-файлы из консоли
 
