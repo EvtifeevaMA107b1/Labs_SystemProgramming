@@ -14,5 +14,5 @@
     Скрипт для задачи представлен в файле `index.js`
 4. Запустим файл:
 
-    ![layout](res/Task.png) 
+    ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%201/res/Task.PNG) 
 
