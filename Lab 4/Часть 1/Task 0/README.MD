@@ -16,4 +16,4 @@
 3. Создаем в VS Code файл "index.js". И запишем базовый скрипт для проверки
 4. Используя терминал VS Code и node, запустим этот файл 
 
-     ![layout](resources/openJS.png) 
+     ![layout](https://github.com/EvtifeevaMA107b1/Labs_SystemProgramming/blob/main/Lab%204/Часть%201/Task%200/resources/openJS.PNG) 
