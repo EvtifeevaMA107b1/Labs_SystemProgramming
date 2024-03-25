@@ -87,8 +87,9 @@
 
 10. `npm run build` -
     * Консоль:
+
      ![layout](./resources/build.PNG)
 
     * Новая сбилденная папка `build`:
 
-        ![layout](./resources/new%20final.PNG)  
+      ![layout](./resources/new%20final.PNG)  
