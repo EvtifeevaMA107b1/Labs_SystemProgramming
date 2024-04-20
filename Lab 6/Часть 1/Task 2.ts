@@ -36,11 +36,11 @@ type Student = User & { courses: { [id: number]: StudentCourse } }
 
 type TeacherCourse = Course&WithTeacherRole
 
-type Teacher = User&WithLevel|{courses: {[id: number]: TeacherCourse}}
+type Teacher = User&WithLevel&{courses?: {[id: number]: TeacherCourse}, rate?: 1 | 2 | 3 | 4 | 5}
 
 
 
-type Director = User&{students: {[id:string]: Student}}&{teachers: {[id:number]: Teacher&WithRate}};
+type Director = User & {students: { [id: string]: User }, teachers: { [id: string]: Teacher }};
 
 /*--  Проверка  --*/
 const s1: Student = {
