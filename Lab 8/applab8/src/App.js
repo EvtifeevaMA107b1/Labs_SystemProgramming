@@ -2,6 +2,7 @@ import './App.css';
 import ReTimer from './Components/ReTimer';
 import TimerBtn from './Components/TimerBtn';
 import SimpleNum from './Components/SimpleNum';
+import TrafficLight from './Components/TrafficLight';
 function App() {
   return (
     <div className="App">
@@ -16,6 +17,10 @@ function App() {
      <div>
         <h2> Task3</h2>
         <SimpleNum  />
+     </div>
+     <div>
+        <h2> Task4</h2>
+        <TrafficLight  />
      </div>
     </div>
   );
