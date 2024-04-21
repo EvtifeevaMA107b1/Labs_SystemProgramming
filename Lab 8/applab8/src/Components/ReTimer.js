@@ -14,9 +14,7 @@ function ReTimer()
         
       }};
   setTimeout(timer,1000)
-    // Запускать countdown каждую секунду
     
-   
     return(
         <p>{count}</p>
        
