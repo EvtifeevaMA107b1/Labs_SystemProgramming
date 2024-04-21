@@ -3,6 +3,7 @@ import ReTimer from './Components/ReTimer';
 import TimerBtn from './Components/TimerBtn';
 import SimpleNum from './Components/SimpleNum';
 import TrafficLight from './Components/TrafficLight';
+import UpdateString from './Components/UpdateString';
 function App() {
   return (
     <div className="App">
@@ -21,6 +22,10 @@ function App() {
      <div>
         <h2> Task4</h2>
         <TrafficLight  />
+     </div>
+     <div>
+        <h2> Task5</h2>
+        <UpdateString str='Привет!' />
      </div>
     </div>
   );
