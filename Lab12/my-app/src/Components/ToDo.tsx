@@ -12,7 +12,6 @@ const TaskList: React.FC = () => {
       setTasks([...tasks, taskText]);
       setTaskId(taskId + 1);
       setTaskText('');
-   
     }
   };
 
@@ -44,10 +43,9 @@ const TaskList: React.FC = () => {
       <main>
       <ul>
         {tasks.map((task, index) => (
-          <li key={index} className="task" >
+          <li key={index} className="task" onClick={() => markTaskComplete(index)}>
             {task}
             <button className="del" onClick={() => deleteTask(index)}>X</button>
-            <button className="del" onClick={() => markTaskComplete(index)}>✔</button>
           </li>
         ))}
       </ul>
